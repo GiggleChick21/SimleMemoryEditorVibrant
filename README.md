@@ -5,4 +5,4 @@ Operating System: Windows XP/Vista/7/10
 
 Windows 8/8.1 Should work as well, but has not been tested.
 
-![alt text](https://raw.githubusercontent.com/GiggleChick21/SimpleMemoryEditorVibrant/master/resources/screenshot.png)
+![alt text](https://raw.githubusercontent.com/GiggleChick21/SimleMemoryEditorVibrant/master/resources/screenshot.png)
